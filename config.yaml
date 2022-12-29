@@ -1,0 +1,13 @@
+env : "pendulum"
+propor : 0.75
+batch_size : 128
+lr : 0.0003
+lam : 0.25
+num_iter : 1000
+iter_save : 100
+decay : 0.001
+parent_dir : 'your directory'
+log_dir : './log'
+seed : 1004
+sample:
+  sample_size : 10000
