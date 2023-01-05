@@ -12,7 +12,7 @@ E2C code is from [E2C pytorch implementation](https://github.com/tung-nd/E2C-pyt
 iLQR code is from - [ilqr_pendulum](https://github.com/ipab-rad/ilqr_pendulum) and the changes are as follows:
 
 - We integrated the E2C model.
-- We added anlaysis [plots](./E2C model test.ipynb).
+- We added anlaysis [plots](./E2C_model_visualize.ipynb).
 
 This is joint work with [Kihong-cyber](https://github.com/Kihong-cyber).
 
